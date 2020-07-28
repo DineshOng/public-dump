@@ -1,0 +1,198 @@
+{
+  "class":[
+    {
+      "classNum": 5866,
+      "courseCode": "IOSAPDE",
+      "classList": [
+        {
+          "idNum": 11975529,
+          "lastName": "Hunt",
+          "firstName": "Steele"
+        },
+        {
+          "idNum": 11502502,
+          "lastName": "Barron",
+          "firstName": "Mcmahon"
+        },
+        {
+          "idNum": 11341978,
+          "lastName": "Gibbs",
+          "firstName": "Francis"
+        },
+        {
+          "idNum": 11469091,
+          "lastName": "Ramirez",
+          "firstName": "Carney"
+        },
+        {
+          "idNum": 11996296,
+          "lastName": "Rios",
+          "firstName": "Kelsey"
+        },
+        {
+          "idNum": 11928451,
+          "lastName": "Black",
+          "firstName": "Aguirre"
+        },
+        {
+          "idNum": 11323885,
+          "lastName": "Moses",
+          "firstName": "Joni"
+        },
+        {
+          "idNum": 11189448,
+          "lastName": "Kennedy",
+          "firstName": "Shannon"
+        },
+        {
+          "idNum": 11464317,
+          "lastName": "Buck",
+          "firstName": "Olsen"
+        },
+        {
+          "idNum": 11583862,
+          "lastName": "Lee",
+          "firstName": "Crystal"
+        }
+      ]
+    },
+    {
+      "classNum": 4882,
+      "classList": [
+        {
+          "idNum": 11238088,
+          "lastName": "Bentley",
+          "firstName": "Joanne"
+        },
+        {
+          "idNum": 11373594,
+          "lastName": "Finley",
+          "firstName": "Ortiz"
+        },
+        {
+          "idNum": 11731390,
+          "lastName": "Santiago",
+          "firstName": "Fern"
+        },
+        {
+          "idNum": 11914312,
+          "lastName": "Bowers",
+          "firstName": "Brigitte"
+        },
+        {
+          "idNum": 11816859,
+          "lastName": "Cherry",
+          "firstName": "Wood"
+        },
+        {
+          "idNum": 11795884,
+          "lastName": "Hatfield",
+          "firstName": "Tillman"
+        },
+        {
+          "idNum": 11736985,
+          "lastName": "Mathis",
+          "firstName": "Inez"
+        },
+        {
+          "idNum": 11791777,
+          "lastName": "Lancaster",
+          "firstName": "Nieves"
+        },
+        {
+          "idNum": 11923007,
+          "lastName": "Emerson",
+          "firstName": "Noreen"
+        },
+        {
+          "idNum": 11943818,
+          "lastName": "Garrett",
+          "firstName": "Johns"
+        }
+      ]
+    },
+    {
+      "classNum": 9592,
+      "classList": [
+        {
+          "idNum": 11547447,
+          "lastName": "Dillon",
+          "firstName": "Fuller"
+        },
+        {
+          "idNum": 11268993,
+          "lastName": "Harrison",
+          "firstName": "Verna"
+        },
+        {
+          "idNum": 11731598,
+          "lastName": "Glover",
+          "firstName": "Georgette"
+        },
+        {
+          "idNum": 11425854,
+          "lastName": "Russell",
+          "firstName": "Parsons"
+        },
+        {
+          "idNum": 11352448,
+          "lastName": "Maldonado",
+          "firstName": "Hayden"
+        },
+        {
+          "idNum": 11935436,
+          "lastName": "Dickson",
+          "firstName": "Amelia"
+        },
+        {
+          "idNum": 11133920,
+          "lastName": "Abbott",
+          "firstName": "Oneill"
+        },
+        {
+          "idNum": 11771869,
+          "lastName": "Suarez",
+          "firstName": "Wheeler"
+        },
+        {
+          "idNum": 11261471,
+          "lastName": "Meyer",
+          "firstName": "Rogers"
+        },
+        {
+          "idNum": 11857287,
+          "lastName": "Pollard",
+          "firstName": "Weaver"
+        }
+      ]
+    }
+  ],
+  "faculty": [
+    {
+      "email": "jordan.deja@dlsu.edu.ph.test",
+      "id": "1",
+      "name": {
+        "first": "Jordan",
+        "last": "Deja"
+      },
+      "class": [
+        4566,
+        4364,
+        1624
+      ]
+    },
+    {
+      "email": "edward.tighe@dlsu.edu.ph.test",
+      "id": "2",
+      "name": {
+        "first": "Edward",
+        "last": "Tighe"
+      },
+      "class": [
+        4729,
+        4166,
+        8340
+      ]
+    }
+  ]
+}
